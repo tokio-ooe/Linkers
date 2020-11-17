@@ -1,24 +1,26 @@
-# README
+# Linkers
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+コメントを付けたブックマーク集をワンクリックで公開してSNSにも簡単に共有できるブックマークシェアWebアプリです。
 
-Things you may want to cover:
+### サイトテーマ
+気になったサイトや動画などをlinkと一緒に投稿してシェアできるサイトです。別のSNSアプリなどに引用する場合にも便利になっています。
 
-* Ruby version
+### テーマを選んだ理由
+自分が勉強している内容を人に説明する場面があり、サイトのリンクや動画のリンクを送ったりしていて、同じ目的の人に使ってもらいたいと思い作りました。勉強内容だけでなく趣味や気になる記事を共有する目的で、使ってもらえたらと思って作成しました。
 
-* System dependencies
+### ターゲットユーザ
+SNSなどを使う人で何かの分野で自分のおすすめ集のようなものを発信したい人に需要があるかも知れないと考えました。
 
-* Configuration
+### 主な利用シーン
+気になった動画や関連記事を投稿してまとめてまとめておいて観覧できるようにする。また他SNSに引用したり逆にLinkersを観覧しにユーザーがきてつながるといった利用の仕方があると考える。
 
-* Database creation
+### 機能一覧
+<https://docs.google.com/spreadsheets/d/1vaq1c2lwuu7rEgO31mXYvDImrEDKNDPfIU6K5SvQaI0/edit#gid=0>
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- 仮想環境：Vagrant,VirtualBox
